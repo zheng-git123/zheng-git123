@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zheng-git123
 - 🌱 专职于各大网站爬虫
 - 💞️ 可接单
-- 📫 QQ:2470633919
 
 <!---
 zheng-git123/zheng-git123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
